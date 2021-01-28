@@ -28,7 +28,7 @@ Concept to know how the complexity of the algorithm
 2. O(log n)
     - Binary search
 3. O(n)
-    - Loop n
+    - Linear search
 4. O(n log n)
     - Merge sort
     - Quick sort

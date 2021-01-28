@@ -20,13 +20,22 @@ function run2(x) {
     console.log(res);
 }
 
-// 0 2 4 6 8 10
+// sample 3
 function run3(x) {
     let res = 0; // O(1)
     for (let i = 0; i < x; i++) { // O(n)
         console.log(res);
         res = res + 2;
     }
+}
+
+
+// linear search
+function linearSearch(arr, v) {
+    for (let i = 0; i < arr.length; i++) {
+        if (v === arr[i]) return true;
+    }
+    return false;
 }
 
 console.time('a')
