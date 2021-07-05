@@ -47,4 +47,4 @@ Concept to know how the complexity of the algorithm
 
 ## Link
 
-- https://www.canva.com/design/DAETng-LCYY/c2dj1BFQJW8Kh-eNpcLgAw/view?utm_content=DAETng-LCYY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#3
+- https://www.canva.com/design/DAETng-LCYY/c2dj1BFQJW8Kh-eNpcLgAw/view?utm_content=DAETng-LCYY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
